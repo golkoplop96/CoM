@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Arial, sans-serif;
+    src: url('./fonts/PixelifeSans.woff2') format('woff2'),
+         url('./fonts/PixelifeSans.woff') format('woff');
+    font-weight: 400; /* укажи начертание, которое скачал */
+    font-style: normal;
+}
+
+body {
+    font-family: 'Pixelife Sans', sans-serif;
+}
